@@ -3,7 +3,7 @@
 	"type": "dark",
 	"colors": {
 		"activityBar.background": "#000000",
-		"activityBar.border": "#000000",
+		"activityBar.border": "#181823",
 		"activityBar.foreground": "#76D6FF",
 		"activityBarBadge.background": "#FF2F92",
 		"activityBarBadge.foreground": "#FFFFFF",
@@ -21,7 +21,7 @@
 		"diffEditor.removedTextBorder": "#FF2F9280",
 		"dropdown.background": "#242526",
 		"dropdown.border": "#242526",
-		"dropdown.foreground": "#afb9cc",
+		"dropdown.foreground": "#FFFFFF",
 		"editor.background": "#000000",
 		"editor.foreground": "#FFFFFF",
 		"editor.findMatchBackground": "#0096FF65",
