@@ -1,0 +1,21 @@
+{
+    "name": "dark-impact-theme",
+    "displayName": "Dark Impact",
+    "description": "A dark theme with bright colors for a great impact.",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.41.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dark Impact",
+                "uiTheme": "vs-dark",
+                "path": "./themes/dark-impact-color-theme.json"
+            }
+        ]
+    }
+}
