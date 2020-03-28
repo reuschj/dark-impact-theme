@@ -133,10 +133,11 @@
 		"terminal.background": "#000000",
 		"terminalCursor.background": "#afb9cc",
 		"terminalCursor.foreground": "#c05776",
-		"titleBar.activeBackground": "#181823",
-		"titleBar.activeForeground": "#7A81FFCC",
+		"titleBar.activeBackground": "#000000",
+		"titleBar.activeForeground": "#FFFFFF",
 		"titleBar.inactiveBackground": "#181823",
 		"titleBar.inactiveForeground": "#FFFFFFCC",
+		"titleBar.border": "#181823"
 	},
 	"tokenColors": [
 		{
